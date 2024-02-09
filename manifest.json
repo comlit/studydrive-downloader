@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Studydrive Downloader",
+  "description": "Download Studydrive documents without a premium account",
+  "author": "comlit",
+  "version": "0.0.2",
+  "host_permissions": ["*://*.studydrive.net/"],
+  "permissions": ["webRequest"],
+  "content_scripts": [
+    {
+      "js": ["injector.js"],
+      "matches": ["https://www.studydrive.net/*/doc/*"]
+    }
+  ],
+  "web_accessible_resources": [{
+      "resources": ["inject.js"],
+      "matches": ["<all_urls>"]
+  }]
+}
