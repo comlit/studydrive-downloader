@@ -8,3 +8,8 @@ Chrome extension to download files on studydrive without paying for premium. Add
 3. Enable Developer Mode (top right corner)
 4. Drag and drop the zip file in the window
 5. Download files
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/comlit)
+
+Please contact me if the extension stops working, so I can quickly fix it.
