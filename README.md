@@ -12,4 +12,8 @@ Chrome extension to download files on studydrive without paying for premium. Add
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/comlit)
 
+<a href="https://www.paypal.com/paypalme/comlit1">
+  <img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="Donate with PayPal" width="200"/>
+</a>
+
 Please contact me if the extension stops working, so I can quickly fix it.
